@@ -90,4 +90,4 @@ go run main.go
 - `maxConcurrent`：并发处理的网站数量（默认为 5）
 - `requestTimeout`：请求超时时间（默认为 30 秒）
 - `requestInterval`：请求间隔时间（默认为 1 秒）
-- `keywords`：关键词列表（默认为 ["八项规定", "八项规定精神"]） 
+- `keywords`：关键词列表（默认为 ["关键词1", "关键词2"]） 
